@@ -29,10 +29,10 @@ function eventHandler(){
     count=count+parseInt(birthdateStr[i])
   }
  if((count % luckyNumber.value)===0){
-  displayMsg("You are lucky");
+  displayMsg("You are lucky😍🍿🎂");
  }
 else{
-   displayMsg("sorry , your are unlucky")
+   displayMsg("sorry , your are unlucky 🥶🥶")
 }
 }
 
