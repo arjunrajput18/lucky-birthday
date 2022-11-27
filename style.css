@@ -11,7 +11,7 @@ body{
     background-image: url(/image//birthdate1.svg);
     background-repeat:no-repeat;
     background-position-x: center; 
-    color: rgb(128, 27, 27);
+    color: rgb(147, 98, 98);
 
     
 }
@@ -24,9 +24,10 @@ label{
 
 button{
     background-color: var(--primary-color);
-    padding: 0.5rem 1rem;
+    padding: 0.8rem 1rem;
     margin-top: 1rem;
     border-radius: 1rem 1rem;
+    color: white;
 }
 
 input {
