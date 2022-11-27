@@ -5,6 +5,7 @@
 body{
     text-align: center;
     background-image: url(/image//birthdate1.svg);
+    background-repeat:no-repeat;
     margin: 4rem;
 }
 
