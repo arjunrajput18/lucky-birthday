@@ -38,6 +38,7 @@ else{
 
 function displayMsg(msg){
     showMsg.style.display="block"
+    showMsg.style.color="#0369a1"
     showMsg.innerHTML =msg
 
 }

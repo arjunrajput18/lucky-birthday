@@ -1,12 +1,19 @@
 :root{
     --primary-color:#a21caf
 }
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 
 body{
+    
+ font-family : 'Montserrat', sans-serif;
     text-align: center;
     background-image: url(/image//birthdate1.svg);
     background-repeat:no-repeat;
-    margin: 4rem;
+    background-position-x: center; 
+    color: rgb(128, 27, 27);
+
+    
 }
 
 label{
@@ -34,3 +41,8 @@ input {
     font-weight: bold;
     margin-top: 0.6rem;
   }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+}
