@@ -42,3 +42,8 @@ input {
     font-weight: bold;
     margin-top: 0.6rem;
   }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+}
