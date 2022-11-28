@@ -9,7 +9,7 @@ function validate(){
         return false;
     }
 
-    if(luckyNumber.value==0){
+    if(luckyNumber.value<=0){
         displayMsg("please select luckyNumber")
         return false;
     }
